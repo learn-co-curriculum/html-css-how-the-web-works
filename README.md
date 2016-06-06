@@ -1,5 +1,9 @@
 # How the Web Works
 
+## Introduction
+
+Now that you understand the Learn workflow, we're just about ready to start building your own responsive websites with HTML and CSS. There's just one little thing: we have to understand a bit about how the web works before we can dive in to _building_ parts of the web.
+
 ## Overview
 
 In this lesson we will learn the fundamentals of the web. This will include web terminology, the request and response cycle, DNS, Hosts, Domains, IP Addresses, and the role HTML, CSS, and JavaScript will play in the pages you build.
