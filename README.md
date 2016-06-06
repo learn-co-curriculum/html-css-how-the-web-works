@@ -44,14 +44,14 @@ Local or client-side refers to your computer that is right in front of you, and 
 
 ### Front-End vs Back-End
 
-Front-end development refers to writing the code that is interpreted by the browser locally (client-side). Examples of front-end languages are HTML, CSS, and JavaScript. Back-end development refers to any programing language running on the remote server. A few common programming languages that run server-side are Ruby, PHP, Python, Java, ASP.NET, as well as database query languages like SQL.
+Front-end development refers to writing the code that is interpreted by the browser locally (client-side). Examples of front-end languages are HTML, CSS, and JavaScript. Back-end development refers to any programing language running on the remote server. A few common programming languages that run server-side are Ruby, PHP, Python, Java, ASP.NET, Javascript as well as database query languages like SQL.
 
 ## Summary
 
 - DNS servers associate a domain name with a particular IP address.
 - IP addresses define the unique location of a computer on the internet.
 - The communication between your browser and servers is done through the request and response cycle, which is made up of headers and bodies.
-- Local refers to your location, where as remote refers to location elsewhere.
+- Local refers to your location, whereas remote refers to location elsewhere.
 - Front-end emcompases all HTML, CSS, JavaScript that is interpreted in your browser
 - Back-end refers to languages running on a remote server.
 
