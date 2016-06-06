@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Now that you understand the Learn workflow, we're just about ready to start building your own responsive websites with HTML and CSS. There's just one little thing: we have to understand a bit about how the web works before we can dive in to _building_ parts of the web.
+Now that we understand the Learn workflow, we're just about ready to start building your own responsive websites with HTML and CSS. There's just one little thing: we have to understand a bit about how the web works before we can dive in to _building_ parts of the web.
 
 ## Overview
 
